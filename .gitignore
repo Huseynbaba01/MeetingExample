@@ -1,0 +1,13 @@
+/build
+/caches
+/.gradle
+.gradle
+/libs
+/.idea
+/dynamic_sample/build/
+/example2/build/
+/feature_mobilertc/build/
+/feature_mobilertc/libs/
+/gradle/
+/mobilertc/build/
+/sample/build/
